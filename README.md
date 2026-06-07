@@ -1,3 +1,6 @@
+<img width="2558" height="1423" alt="r2s" src="https://github.com/user-attachments/assets/2f469f39-f6f8-4b27-98ec-8f71fca114ac" />
+
+
 # R2S3D PoseKit
 
 `R2S3D PoseKit` is the lightweight open-source layer around `SAM3D` and `FoundationPose` for:
