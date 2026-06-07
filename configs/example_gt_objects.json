@@ -1,0 +1,20 @@
+{
+  "objects": [
+    {
+      "object_id": 0,
+      "name": "example_object_0",
+      "mesh_path": "/abs/path/to/gt_meshes/object_0.usd",
+      "scale_xyz": [1.0, 1.0, 1.0],
+      "pos_xyz": [0.0, 0.0, 0.0],
+      "quat_wxyz": [1.0, 0.0, 0.0, 0.0]
+    },
+    {
+      "object_id": 1,
+      "name": "example_object_1",
+      "mesh_path": "/abs/path/to/gt_meshes/object_1.glb",
+      "scale_xyz": [1.0, 1.0, 1.0],
+      "pos_xyz": [0.1, 0.0, 0.0],
+      "quat_wxyz": [1.0, 0.0, 0.0, 0.0]
+    }
+  ]
+}

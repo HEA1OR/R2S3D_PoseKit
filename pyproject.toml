@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling>=1.24.0"]
+build-backend = "hatchling.build"
+
+[project]
+name = "r2s3d-posekit"
+version = "0.1.0"
+description = "Glue code for SAM3D reconstruction and FoundationPose iterative scale+pose optimization."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.24",
+  "opencv-python>=4.8",
+  "Pillow>=10.0",
+  "scipy>=1.11",
+  "trimesh>=4.0",
+]
+
+[project.optional-dependencies]
+usd = [
+  "usd-core>=24.5",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/r2s3d_posekit"]

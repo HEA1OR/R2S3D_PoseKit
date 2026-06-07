@@ -1,0 +1,36 @@
+{
+  "objects": [
+    {
+      "object_id": 0,
+      "name": "pen",
+      "mesh_path": "/home/ps/xwj/R2S3D_PoseKit/examples/etot_prepared_iter8/gt_meshes/pen.glb",
+      "scale_xyz": [2.5, 2.5, 1.100000023841858],
+      "pos_xyz": [0.4207879900932312, 6.095413846196607e-05, 0.287646621465683],
+      "quat_wxyz": [0.8319647312164307, 0.034326616674661636, 0.5528231859207153, 0.032294273376464844]
+    },
+    {
+      "object_id": 1,
+      "name": "holder_black",
+      "mesh_path": "/home/ps/xwj/R2S3D_PoseKit/examples/etot_prepared_iter8/gt_meshes/holder_black.glb",
+      "scale_xyz": [0.699999988079071, 0.44999998807907104, 0.699999988079071],
+      "pos_xyz": [0.3999992609024048, -0.2999997138977051, 0.13807407021522522],
+      "quat_wxyz": [0.707002580165863, 0.7072110772132874, -1.2628234799194615e-05, 1.2489059372455813e-05]
+    },
+    {
+      "object_id": 2,
+      "name": "tennis",
+      "mesh_path": "/home/ps/xwj/R2S3D_PoseKit/examples/etot_prepared_iter8/gt_meshes/tennis.glb",
+      "scale_xyz": [0.045, 0.045, 0.045],
+      "pos_xyz": [0.40277987718582153, 0.3004588782787323, 0.19199977815151215],
+      "quat_wxyz": [0.999674916267395, -0.006341463886201382, -0.023245494812726974, -0.008337057195603848]
+    },
+    {
+      "object_id": 4,
+      "name": "holder_white",
+      "mesh_path": "/home/ps/xwj/R2S3D_PoseKit/examples/etot_prepared_iter8/gt_meshes/holder_white.glb",
+      "scale_xyz": [0.85, 0.57, 0.85],
+      "pos_xyz": [0.39999884366989136, 0.29999521374702454, 0.13816425204277039],
+      "quat_wxyz": [0.7062650918960571, 0.7079473733901978, -1.8206503227702342e-05, 1.6807689462439157e-05]
+    }
+  ]
+}
